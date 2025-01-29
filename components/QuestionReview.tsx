@@ -8,10 +8,34 @@ import { Input } from '@/components/ui/input';
 import { ThumbsUp, ThumbsDown, ArrowLeft, ArrowRight } from 'lucide-react';
 import { Progress } from '@/components/ui/progress';
 
+interface Question {
+    month: number;
+    day_of_month: number;
+    question: string;
+  }
+  
+  interface Response {
+    liked: boolean;
+    comment?: string;
+  }
+  
+  interface Responses {
+    [key: number]: Response;
+  }
+
+  interface FeedbackItem {
+    month: number;
+    day_of_month: number;
+    question: string;
+    liked: boolean;
+    comment: string;
+  }
+
+
 const QuestionReview = () => {
-  const [questions, setQuestions] = useState([]);
+  const [questions, setQuestions] = useState<Question[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
-  const [responses, setResponses] = useState({});
+  const [responses, setResponses] = useState<Responses>({});
   const [comment, setComment] = useState('');
   const [jumpToDate, setJumpToDate] = useState('');
 
@@ -35,7 +59,7 @@ const QuestionReview = () => {
     loadQuestions();
   }, []);
 
-  const handleVote = (liked) => {
+  const handleVote = (liked: boolean) => {
     const updatedResponses = {
       ...responses,
       [currentIndex]: {
@@ -61,7 +85,7 @@ const QuestionReview = () => {
     }
   };
 
-  const jumpToQuestion = (dateStr) => {
+  const jumpToQuestion = (dateStr: string) => {
     const [month, day] = dateStr.split('-').map(num => parseInt(num));
     const questionIndex = questions.findIndex(q => 
       q.month === month && q.day_of_month === day
@@ -74,7 +98,7 @@ const QuestionReview = () => {
 
   function exportResults() {
     // First, collect all questions that need feedback
-    const feedbackNeeded = questions.reduce((acc, question, index) => {
+    const feedbackNeeded = questions.reduce<FeedbackItem[]>((acc, question, index) => {
       const response = responses[index];
       // Check if there's a response and if it's either a dislike or has a comment
       if (response && (response.liked === false || response.comment)) {
