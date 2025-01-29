@@ -1,0 +1,1832 @@
+[
+    {
+      "month": 1,
+      "day_of_month": 1,
+      "question": "What one word would you choose to guide you through this year?"
+    },
+    {
+      "month": 1,
+      "day_of_month": 2,
+      "question": "What small thing brought you joy today?"
+    },
+    {
+      "month": 1,
+      "day_of_month": 3,
+      "question": "What habit from last year would you like to leave behind?"
+    },
+    {
+      "month": 1,
+      "day_of_month": 4,
+      "question": "How has your definition of success changed over time?"
+    },
+    {
+      "month": 1,
+      "day_of_month": 5,
+      "question": "What's the kindest thing someone did for you recently?"
+    },
+    {
+      "month": 1,
+      "day_of_month": 6,
+      "question": "What skill would you like to develop this year?"
+    },
+    {
+      "month": 1,
+      "day_of_month": 7,
+      "question": "What's something you've recently learned about yourself?"
+    },
+    {
+      "month": 1,
+      "day_of_month": 8,
+      "question": "How do you feel about winter?"
+    },
+    {
+      "month": 1,
+      "day_of_month": 9,
+      "question": "What's a mistake you're grateful for making?"
+    },
+    {
+      "month": 1,
+      "day_of_month": 10,
+      "question": "What's your favorite way to spend a quiet moment?"
+    },
+    {
+      "month": 1,
+      "day_of_month": 11,
+      "question": "What area of your life needs more attention right now?"
+    },
+    {
+      "month": 1,
+      "day_of_month": 12,
+      "question": "What's a simple pleasure you'd like to experience more often?"
+    },
+    {
+      "month": 1,
+      "day_of_month": 13,
+      "question": "How do you handle uncertainty?"
+    },
+    {
+      "month": 1,
+      "day_of_month": 14,
+      "question": "What makes you feel at home?"
+    },
+    {
+      "month": 1,
+      "day_of_month": 15,
+      "question": "What's a belief you held last year that has changed?"
+    },
+    {
+      "month": 1,
+      "day_of_month": 16,
+      "question": "What's your favorite morning ritual?"
+    },
+    {
+      "month": 1,
+      "day_of_month": 17,
+      "question": "Who has influenced your life in unexpected ways?"
+    },
+    {
+      "month": 1,
+      "day_of_month": 18,
+      "question": "What's something you're looking forward to learning?"
+    },
+    {
+      "month": 1,
+      "day_of_month": 19,
+      "question": "How do you want to be remembered?"
+    },
+    {
+      "month": 1,
+      "day_of_month": 20,
+      "question": "What's a small way you've grown recently?"
+    },
+    {
+      "month": 1,
+      "day_of_month": 21,
+      "question": "What energizes you?"
+    },
+    {
+      "month": 1,
+      "day_of_month": 22,
+      "question": "What's a challenge you're proud of overcoming?"
+    },
+    {
+      "month": 1,
+      "day_of_month": 23,
+      "question": "How do you show yourself compassion?"
+    },
+    {
+      "month": 1,
+      "day_of_month": 24,
+      "question": "What's a boundary you need to set or maintain?"
+    },
+    {
+      "month": 1,
+      "day_of_month": 25,
+      "question": "What's your favorite way to recharge?"
+    },
+    {
+      "month": 1,
+      "day_of_month": 26,
+      "question": "What's a truth you've recently accepted about yourself?"
+    },
+    {
+      "month": 1,
+      "day_of_month": 27,
+      "question": "What makes you feel truly alive?"
+    },
+    {
+      "month": 1,
+      "day_of_month": 28,
+      "question": "What's a tradition you'd like to start?"
+    },
+    {
+      "month": 1,
+      "day_of_month": 29,
+      "question": "How do you want to grow this year?"
+    },
+    {
+      "month": 1,
+      "day_of_month": 30,
+      "question": "What's something you need to forgive yourself for?"
+    },
+    {
+      "month": 1,
+      "day_of_month": 31,
+      "question": "What possibility excites you most about the future?"
+    },
+    {
+      "month": 2,
+      "day_of_month": 1,
+      "question": "What friendship has most shaped who you are?"
+    },
+    {
+      "month": 2,
+      "day_of_month": 2,
+      "question": "What's a small way you show people you care?"
+    },
+    {
+      "month": 2,
+      "day_of_month": 3,
+      "question": "How do you maintain connections with those far away?"
+    },
+    {
+      "month": 2,
+      "day_of_month": 4,
+      "question": "What makes you feel truly understood?"
+    },
+    {
+      "month": 2,
+      "day_of_month": 5,
+      "question": "What's a quality you admire in others?"
+    },
+    {
+      "month": 2,
+      "day_of_month": 6,
+      "question": "How do you handle disagreements with people you love?"
+    },
+    {
+      "month": 2,
+      "day_of_month": 7,
+      "question": "What's a relationship you'd like to strengthen this year?"
+    },
+    {
+      "month": 2,
+      "day_of_month": 8,
+      "question": "What's the most meaningful gift you've ever received?"
+    },
+    {
+      "month": 2,
+      "day_of_month": 9,
+      "question": "How do you know when to trust someone?"
+    },
+    {
+      "month": 2,
+      "day_of_month": 10,
+      "question": "What's a boundary that has improved your relationships?"
+    },
+    {
+      "month": 2,
+      "day_of_month": 11,
+      "question": "What does loyalty mean to you?"
+    },
+    {
+      "month": 2,
+      "day_of_month": 12,
+      "question": "How do you show up for others during difficult times?"
+    },
+    {
+      "month": 2,
+      "day_of_month": 13,
+      "question": "What makes you feel appreciated?"
+    },
+    {
+      "month": 2,
+      "day_of_month": 14,
+      "question": "What does love mean to you?"
+    },
+    {
+      "month": 2,
+      "day_of_month": 15,
+      "question": "How do you rebuild trust once it's broken?"
+    },
+    {
+      "month": 2,
+      "day_of_month": 16,
+      "question": "What's a relationship lesson you had to learn twice?"
+    },
+    {
+      "month": 2,
+      "day_of_month": 17,
+      "question": "How do you maintain your sense of self in relationships?"
+    },
+    {
+      "month": 2,
+      "day_of_month": 18,
+      "question": "What's the kindest thing someone has taught you?"
+    },
+    {
+      "month": 2,
+      "day_of_month": 19,
+      "question": "How do you know when to let go of a relationship?"
+    },
+    {
+      "month": 2,
+      "day_of_month": 20,
+      "question": "What's a way you've grown through connection with others?"
+    },
+    {
+      "month": 2,
+      "day_of_month": 21,
+      "question": "How do you create meaningful conversations?"
+    },
+    {
+      "month": 2,
+      "day_of_month": 22,
+      "question": "What role does forgiveness play in your relationships?"
+    },
+    {
+      "month": 2,
+      "day_of_month": 23,
+      "question": "How do you balance giving and receiving?"
+    },
+    {
+      "month": 2,
+      "day_of_month": 24,
+      "question": "What makes you feel safe in relationships?"
+    },
+    {
+      "month": 2,
+      "day_of_month": 25,
+      "question": "How do you maintain your independence while being close to others?"
+    },
+    {
+      "month": 2,
+      "day_of_month": 26,
+      "question": "What's a relationship pattern you're trying to change?"
+    },
+    {
+      "month": 2,
+      "day_of_month": 27,
+      "question": "How do you show gratitude to those you love?"
+    },
+    {
+      "month": 2,
+      "day_of_month": 28,
+      "question": "What's a relationship that surprised you?"
+    },
+    {
+      "month": 2,
+      "day_of_month": 29,
+      "question": "If you could send a message to yourself four years from now, what would you say?"
+    },
+    {
+      "month": 3,
+      "day_of_month": 1,
+      "question": "What signs of change are you noticing in your life?"
+    },
+    {
+      "month": 3,
+      "day_of_month": 2,
+      "question": "What new possibility has recently caught your attention?"
+    },
+    {
+      "month": 3,
+      "day_of_month": 3,
+      "question": "How do you approach starting something new?"
+    },
+    {
+      "month": 3,
+      "day_of_month": 4,
+      "question": "What's something you'd like to understand better about yourself?"
+    },
+    {
+      "month": 3,
+      "day_of_month": 5,
+      "question": "What small victory made you smile recently?"
+    },
+    {
+      "month": 3,
+      "day_of_month": 6,
+      "question": "How do you adapt when things don't go as planned?"
+    },
+    {
+      "month": 3,
+      "day_of_month": 7,
+      "question": "What's something you're slowly getting better at?"
+    },
+    {
+      "month": 3,
+      "day_of_month": 8,
+      "question": "How do you celebrate your progress?"
+    },
+    {
+      "month": 3,
+      "day_of_month": 9,
+      "question": "What's a challenge you're ready to take on?"
+    },
+    {
+      "month": 3,
+      "day_of_month": 10,
+      "question": "How do you know when you're growing?"
+    },
+    {
+      "month": 3,
+      "day_of_month": 11,
+      "question": "What's something you recently discovered about your strengths?"
+    },
+    {
+      "month": 3,
+      "day_of_month": 12,
+      "question": "What makes you feel most like yourself?"
+    },
+    {
+      "month": 3,
+      "day_of_month": 13,
+      "question": "How do you find motivation when it's lacking?"
+    },
+    {
+      "month": 3,
+      "day_of_month": 14,
+      "question": "What's a small change that had a big impact?"
+    },
+    {
+      "month": 3,
+      "day_of_month": 15,
+      "question": "How do you bounce back from setbacks?"
+    },
+    {
+      "month": 3,
+      "day_of_month": 16,
+      "question": "What's something you're learning to appreciate about yourself?"
+    },
+    {
+      "month": 3,
+      "day_of_month": 17,
+      "question": "How do you handle unexpected changes?"
+    },
+    {
+      "month": 3,
+      "day_of_month": 18,
+      "question": "What new perspective have you gained recently?"
+    },
+    {
+      "month": 3,
+      "day_of_month": 19,
+      "question": "What's something you're ready to try?"
+    },
+    {
+      "month": 3,
+      "day_of_month": 20,
+      "question": "How has your definition of growth evolved?"
+    },
+    {
+      "month": 3,
+      "day_of_month": 21,
+      "question": "What's something you're nurturing right now?"
+    },
+    {
+      "month": 3,
+      "day_of_month": 22,
+      "question": "How do you know when to persist versus let go?"
+    },
+    {
+      "month": 3,
+      "day_of_month": 23,
+      "question": "What's a lesson you keep relearning?"
+    },
+    {
+      "month": 3,
+      "day_of_month": 24,
+      "question": "How do you stay true to yourself while growing?"
+    },
+    {
+      "month": 3,
+      "day_of_month": 25,
+      "question": "What's something you're discovering about your capabilities?"
+    },
+    {
+      "month": 3,
+      "day_of_month": 26,
+      "question": "How do you embrace uncertainty?"
+    },
+    {
+      "month": 3,
+      "day_of_month": 27,
+      "question": "What's a fear you're ready to examine?"
+    },
+    {
+      "month": 3,
+      "day_of_month": 28,
+      "question": "How do you recognize your own progress?"
+    },
+    {
+      "month": 3,
+      "day_of_month": 29,
+      "question": "What's something you're outgrowing?"
+    },
+    {
+      "month": 3,
+      "day_of_month": 30,
+      "question": "What helps you feel grounded during change?"
+    },
+    {
+      "month": 3,
+      "day_of_month": 31,
+      "question": "What new beginning are you most excited about?"
+    },
+    {
+      "month": 4,
+      "day_of_month": 1,
+      "question": "What's the most surprising thing you've discovered recently?"
+    },
+    {
+      "month": 4,
+      "day_of_month": 2,
+      "question": "How do you like to play?"
+    },
+    {
+      "month": 4,
+      "day_of_month": 3,
+      "question": "What's an adventure you'd love to have?"
+    },
+    {
+      "month": 4,
+      "day_of_month": 4,
+      "question": "When do you feel most creative?"
+    },
+    {
+      "month": 4,
+      "day_of_month": 5,
+      "question": "What's something you're curious about right now?"
+    },
+    {
+      "month": 4,
+      "day_of_month": 6,
+      "question": "What's the most beautiful thing you've seen lately?"
+    },
+    {
+      "month": 4,
+      "day_of_month": 7,
+      "question": "How do you make ordinary moments special?"
+    },
+    {
+      "month": 4,
+      "day_of_month": 8,
+      "question": "What's something you'd like to try just for fun?"
+    },
+    {
+      "month": 4,
+      "day_of_month": 9,
+      "question": "What inspires you to be creative?"
+    },
+    {
+      "month": 4,
+      "day_of_month": 10,
+      "question": "How do you see the world differently than you used to?"
+    },
+    {
+      "month": 4,
+      "day_of_month": 11,
+      "question": "What's something you've always wanted to explore?"
+    },
+    {
+      "month": 4,
+      "day_of_month": 12,
+      "question": "How do you surprise yourself?"
+    },
+    {
+      "month": 4,
+      "day_of_month": 13,
+      "question": "What's your favorite way to be spontaneous?"
+    },
+    {
+      "month": 4,
+      "day_of_month": 14,
+      "question": "What's an idea you can't stop thinking about?"
+    },
+    {
+      "month": 4,
+      "day_of_month": 15,
+      "question": "How do you find wonder in everyday life?"
+    },
+    {
+      "month": 4,
+      "day_of_month": 16,
+      "question": "What's something you'd like to reimagine?"
+    },
+    {
+      "month": 4,
+      "day_of_month": 17,
+      "question": "How do you embrace new experiences?"
+    },
+    {
+      "month": 4,
+      "day_of_month": 18,
+      "question": "What's a mystery you'd love to solve?"
+    },
+    {
+      "month": 4,
+      "day_of_month": 19,
+      "question": "How do you keep your sense of adventure alive?"
+    },
+    {
+      "month": 4,
+      "day_of_month": 20,
+      "question": "What's something you recently discovered about the world?"
+    },
+    {
+      "month": 4,
+      "day_of_month": 21,
+      "question": "How do you express your playful side?"
+    },
+    {
+      "month": 4,
+      "day_of_month": 22,
+      "question": "What makes you lose track of time?"
+    },
+    {
+      "month": 4,
+      "day_of_month": 23,
+      "question": "How do you turn obstacles into opportunities?"
+    },
+    {
+      "month": 4,
+      "day_of_month": 24,
+      "question": "What's something you'd like to experiment with?"
+    },
+    {
+      "month": 4,
+      "day_of_month": 25,
+      "question": "How do you cultivate curiosity?"
+    },
+    {
+      "month": 4,
+      "day_of_month": 26,
+      "question": "What's a dream you'd like to explore?"
+    },
+    {
+      "month": 4,
+      "day_of_month": 27,
+      "question": "How do you find inspiration?"
+    },
+    {
+      "month": 4,
+      "day_of_month": 28,
+      "question": "What's something you'd like to create?"
+    },
+    {
+      "month": 4,
+      "day_of_month": 29,
+      "question": "How do you make space for discovery?"
+    },
+    {
+      "month": 4,
+      "day_of_month": 30,
+      "question": "What adventure taught you the most about yourself?"
+    },
+    {
+      "month": 5,
+      "day_of_month": 1,
+      "question": "What makes you feel most alive in nature?"
+    },
+    {
+      "month": 5,
+      "day_of_month": 2,
+      "question": "How do you know when you need rest?"
+    },
+    {
+      "month": 5,
+      "day_of_month": 3,
+      "question": "What nourishes you beyond food?"
+    },
+    {
+      "month": 5,
+      "day_of_month": 4,
+      "question": "How do you find balance in busy times?"
+    },
+    {
+      "month": 5,
+      "day_of_month": 5,
+      "question": "What healthy boundary are you glad you set?"
+    },
+    {
+      "month": 5,
+      "day_of_month": 6,
+      "question": "How do you return to yourself when feeling scattered?"
+    },
+    {
+      "month": 5,
+      "day_of_month": 7,
+      "question": "What ritual helps you feel centered?"
+    },
+    {
+      "month": 5,
+      "day_of_month": 8,
+      "question": "How do you care for your future self?"
+    },
+    {
+      "month": 5,
+      "day_of_month": 9,
+      "question": "What does vitality feel like to you?"
+    },
+    {
+      "month": 5,
+      "day_of_month": 10,
+      "question": "How do you honor your body's wisdom?"
+    },
+    {
+      "month": 5,
+      "day_of_month": 11,
+      "question": "What helps you feel connected to the present moment?"
+    },
+    {
+      "month": 5,
+      "day_of_month": 12,
+      "question": "How has your relationship with rest evolved?"
+    },
+    {
+      "month": 5,
+      "day_of_month": 13,
+      "question": "What energizes you mentally?"
+    },
+    {
+      "month": 5,
+      "day_of_month": 14,
+      "question": "How do you maintain inner peace during challenges?"
+    },
+    {
+      "month": 5,
+      "day_of_month": 15,
+      "question": "What's your favorite way to move your body?"
+    },
+    {
+      "month": 5,
+      "day_of_month": 16,
+      "question": "How do you create space for what matters?"
+    },
+    {
+      "month": 5,
+      "day_of_month": 17,
+      "question": "What does feeling balanced mean to you?"
+    },
+    {
+      "month": 5,
+      "day_of_month": 18,
+      "question": "How do you reconnect with your values?"
+    },
+    {
+      "month": 5,
+      "day_of_month": 19,
+      "question": "What's a habit that consistently serves you well?"
+    },
+    {
+      "month": 5,
+      "day_of_month": 20,
+      "question": "How do you practice self-compassion?"
+    },
+    {
+      "month": 5,
+      "day_of_month": 21,
+      "question": "What helps you feel grounded?"
+    },
+    {
+      "month": 5,
+      "day_of_month": 22,
+      "question": "How do you protect your energy?"
+    },
+    {
+      "month": 5,
+      "day_of_month": 23,
+      "question": "What brings harmony to your daily life?"
+    },
+    {
+      "month": 5,
+      "day_of_month": 24,
+      "question": "How do you honor your needs?"
+    },
+    {
+      "month": 5,
+      "day_of_month": 25,
+      "question": "What's your favorite way to recharge in nature?"
+    },
+    {
+      "month": 5,
+      "day_of_month": 26,
+      "question": "How do you maintain healthy boundaries?"
+    },
+    {
+      "month": 5,
+      "day_of_month": 27,
+      "question": "What wisdom has your body taught you?"
+    },
+    {
+      "month": 5,
+      "day_of_month": 28,
+      "question": "How do you find stillness?"
+    },
+    {
+      "month": 5,
+      "day_of_month": 29,
+      "question": "What nurtures your spiritual well-being?"
+    },
+    {
+      "month": 5,
+      "day_of_month": 30,
+      "question": "How do you celebrate your body?"
+    },
+    {
+      "month": 5,
+      "day_of_month": 31,
+      "question": "What helps you feel most balanced?"
+    },
+    {
+      "month": 6,
+      "day_of_month": 1,
+      "question": "What achievement are you most proud of lately?"
+    },
+    {
+      "month": 6,
+      "day_of_month": 2,
+      "question": "How do you measure personal success?"
+    },
+    {
+      "month": 6,
+      "day_of_month": 3,
+      "question": "What's something you've mastered?"
+    },
+    {
+      "month": 6,
+      "day_of_month": 4,
+      "question": "How has your definition of achievement evolved?"
+    },
+    {
+      "month": 6,
+      "day_of_month": 5,
+      "question": "What small victory deserves celebration?"
+    },
+    {
+      "month": 6,
+      "day_of_month": 6,
+      "question": "How do you acknowledge your progress?"
+    },
+    {
+      "month": 6,
+      "day_of_month": 7,
+      "question": "What strength have you recently discovered?"
+    },
+    {
+      "month": 6,
+      "day_of_month": 8,
+      "question": "How do you celebrate others' successes?"
+    },
+    {
+      "month": 6,
+      "day_of_month": 9,
+      "question": "What obstacle taught you the most?"
+    },
+    {
+      "month": 6,
+      "day_of_month": 10,
+      "question": "How do you recognize your own growth?"
+    },
+    {
+      "month": 6,
+      "day_of_month": 11,
+      "question": "What accomplishment felt unexpected?"
+    },
+    {
+      "month": 6,
+      "day_of_month": 12,
+      "question": "How do you define personal excellence?"
+    },
+    {
+      "month": 6,
+      "day_of_month": 13,
+      "question": "What makes you feel capable?"
+    },
+    {
+      "month": 6,
+      "day_of_month": 14,
+      "question": "How do you maintain momentum?"
+    },
+    {
+      "month": 6,
+      "day_of_month": 15,
+      "question": "What's a milestone that changed you?"
+    },
+    {
+      "month": 6,
+      "day_of_month": 16,
+      "question": "How do you bounce back from failure?"
+    },
+    {
+      "month": 6,
+      "day_of_month": 17,
+      "question": "What success are you still working toward?"
+    },
+    {
+      "month": 6,
+      "day_of_month": 18,
+      "question": "How do you stay true to yourself while achieving goals?"
+    },
+    {
+      "month": 6,
+      "day_of_month": 19,
+      "question": "What's something you're better at than you realize?"
+    },
+    {
+      "month": 6,
+      "day_of_month": 20,
+      "question": "How do you celebrate small wins?"
+    },
+    {
+      "month": 6,
+      "day_of_month": 21,
+      "question": "What achievement made you see yourself differently?"
+    },
+    {
+      "month": 6,
+      "day_of_month": 22,
+      "question": "How do you know when you're thriving?"
+    },
+    {
+      "month": 6,
+      "day_of_month": 23,
+      "question": "What's something you've built or created?"
+    },
+    {
+      "month": 6,
+      "day_of_month": 24,
+      "question": "How do you handle expectations?"
+    },
+    {
+      "month": 6,
+      "day_of_month": 25,
+      "question": "What's a recent breakthrough moment?"
+    },
+    {
+      "month": 6,
+      "day_of_month": 26,
+      "question": "How do you measure personal growth?"
+    },
+    {
+      "month": 6,
+      "day_of_month": 27,
+      "question": "What accomplishment surprised you?"
+    },
+    {
+      "month": 6,
+      "day_of_month": 28,
+      "question": "How do you maintain confidence during challenges?"
+    },
+    {
+      "month": 6,
+      "day_of_month": 29,
+      "question": "What success feels most authentic to you?"
+    },
+    {
+      "month": 6,
+      "day_of_month": 30,
+      "question": "How do you celebrate your journey?"
+    },
+    {
+      "month": 7,
+      "day_of_month": 1,
+      "question": "What's your favorite summer memory?"
+    },
+    {
+      "month": 7,
+      "day_of_month": 2,
+      "question": "How do you create moments of joy?"
+    },
+    {
+      "month": 7,
+      "day_of_month": 3,
+      "question": "What makes you laugh the most?"
+    },
+    {
+      "month": 7,
+      "day_of_month": 4,
+      "question": "How do you celebrate freedom in your life?"
+    },
+    {
+      "month": 7,
+      "day_of_month": 5,
+      "question": "What's your favorite way to play?"
+    },
+    {
+      "month": 7,
+      "day_of_month": 6,
+      "question": "How do you make ordinary days special?"
+    },
+    {
+      "month": 7,
+      "day_of_month": 7,
+      "question": "What's the most fun you've had recently?"
+    },
+    {
+      "month": 7,
+      "day_of_month": 8,
+      "question": "How do you keep your sense of wonder alive?"
+    },
+    {
+      "month": 7,
+      "day_of_month": 9,
+      "question": "What simple pleasure never fails to delight you?"
+    },
+    {
+      "month": 7,
+      "day_of_month": 10,
+      "question": "How do you share joy with others?"
+    },
+    {
+      "month": 7,
+      "day_of_month": 11,
+      "question": "What makes time feel endless in a good way?"
+    },
+    {
+      "month": 7,
+      "day_of_month": 12,
+      "question": "How do you create adventure in daily life?"
+    },
+    {
+      "month": 7,
+      "day_of_month": 13,
+      "question": "What's your favorite way to spend a summer day?"
+    },
+    {
+      "month": 7,
+      "day_of_month": 14,
+      "question": "How do you keep your inner child alive?"
+    },
+    {
+      "month": 7,
+      "day_of_month": 15,
+      "question": "What activity makes you lose track of time?"
+    },
+    {
+      "month": 7,
+      "day_of_month": 16,
+      "question": "How do you find magic in everyday moments?"
+    },
+    {
+      "month": 7,
+      "day_of_month": 17,
+      "question": "What's the most playful thing about you?"
+    },
+    {
+      "month": 7,
+      "day_of_month": 18,
+      "question": "How do you create lightness during difficult times?"
+    },
+    {
+      "month": 7,
+      "day_of_month": 19,
+      "question": "What brings out your silly side?"
+    },
+    {
+      "month": 7,
+      "day_of_month": 20,
+      "question": "How do you celebrate life's simple pleasures?"
+    },
+    {
+      "month": 7,
+      "day_of_month": 21,
+      "question": "What makes you feel carefree?"
+    },
+    {
+      "month": 7,
+      "day_of_month": 22,
+      "question": "How do you maintain your sense of play at work?"
+    },
+    {
+      "month": 7,
+      "day_of_month": 23,
+      "question": "What's your favorite way to be spontaneous?"
+    },
+    {
+      "month": 7,
+      "day_of_month": 24,
+      "question": "How do you find joy in small things?"
+    },
+    {
+      "month": 7,
+      "day_of_month": 25,
+      "question": "What makes your heart feel light?"
+    },
+    {
+      "month": 7,
+      "day_of_month": 26,
+      "question": "How do you create fun for others?"
+    },
+    {
+      "month": 7,
+      "day_of_month": 27,
+      "question": "What's your favorite way to waste time?"
+    },
+    {
+      "month": 7,
+      "day_of_month": 28,
+      "question": "How do you keep your curiosity active?"
+    },
+    {
+      "month": 7,
+      "day_of_month": 29,
+      "question": "What's the most entertaining part of your day?"
+    },
+    {
+      "month": 7,
+      "day_of_month": 30,
+      "question": "How do you make chores more enjoyable?"
+    },
+    {
+      "month": 7,
+      "day_of_month": 31,
+      "question": "What makes you feel most free?"
+    },
+    {
+      "month": 8,
+      "day_of_month": 1,
+      "question": "What's something you've learned about yourself this summer?"
+    },
+    {
+      "month": 8,
+      "day_of_month": 2,
+      "question": "How has a mistake helped you grow?"
+    },
+    {
+      "month": 8,
+      "day_of_month": 3,
+      "question": "What wisdom do you wish you could share with everyone?"
+    },
+    {
+      "month": 8,
+      "day_of_month": 4,
+      "question": "What's the most interesting thing you've learned recently?"
+    },
+    {
+      "month": 8,
+      "day_of_month": 5,
+      "question": "How has your perspective changed over time?"
+    },
+    {
+      "month": 8,
+      "day_of_month": 6,
+      "question": "What experience taught you the most about life?"
+    },
+    {
+      "month": 8,
+      "day_of_month": 7,
+      "question": "What's a lesson you had to learn the hard way?"
+    },
+    {
+      "month": 8,
+      "day_of_month": 8,
+      "question": "How do you learn best?"
+    },
+    {
+      "month": 8,
+      "day_of_month": 9,
+      "question": "What knowledge do you treasure most?"
+    },
+    {
+      "month": 8,
+      "day_of_month": 10,
+      "question": "How has nature been your teacher?"
+    },
+    {
+      "month": 8,
+      "day_of_month": 11,
+      "question": "What's something you've unlearned?"
+    },
+    {
+      "month": 8,
+      "day_of_month": 12,
+      "question": "How do you pass on what you've learned?"
+    },
+    {
+      "month": 8,
+      "day_of_month": 13,
+      "question": "What's a question you keep exploring?"
+    },
+    {
+      "month": 8,
+      "day_of_month": 14,
+      "question": "How has failure taught you?"
+    },
+    {
+      "month": 8,
+      "day_of_month": 15,
+      "question": "What wisdom have you gained from joy?"
+    },
+    {
+      "month": 8,
+      "day_of_month": 16,
+      "question": "How do you learn from others?"
+    },
+    {
+      "month": 8,
+      "day_of_month": 17,
+      "question": "What's the most surprising thing you've discovered about yourself?"
+    },
+    {
+      "month": 8,
+      "day_of_month": 18,
+      "question": "How has your understanding of success evolved?"
+    },
+    {
+      "month": 8,
+      "day_of_month": 19,
+      "question": "What lesson keeps appearing in your life?"
+    },
+    {
+      "month": 8,
+      "day_of_month": 20,
+      "question": "How do you seek wisdom?"
+    },
+    {
+      "month": 8,
+      "day_of_month": 21,
+      "question": "What's something you're still figuring out?"
+    },
+    {
+      "month": 8,
+      "day_of_month": 22,
+      "question": "How has pain been your teacher?"
+    },
+    {
+      "month": 8,
+      "day_of_month": 23,
+      "question": "What knowledge has changed how you live?"
+    },
+    {
+      "month": 8,
+      "day_of_month": 24,
+      "question": "How do you learn from your emotions?"
+    },
+    {
+      "month": 8,
+      "day_of_month": 25,
+      "question": "What's a truth you've recently accepted?"
+    },
+    {
+      "month": 8,
+      "day_of_month": 26,
+      "question": "How has time changed your perspective?"
+    },
+    {
+      "month": 8,
+      "day_of_month": 27,
+      "question": "What wisdom have you gained from relationships?"
+    },
+    {
+      "month": 8,
+      "day_of_month": 28,
+      "question": "How do you learn from success?"
+    },
+    {
+      "month": 8,
+      "day_of_month": 29,
+      "question": "What's something you're ready to understand differently?"
+    },
+    {
+      "month": 8,
+      "day_of_month": 30,
+      "question": "How has challenge shaped your wisdom?"
+    },
+    {
+      "month": 8,
+      "day_of_month": 31,
+      "question": "What life lesson are you most grateful for?"
+    },
+    {
+      "month": 9,
+      "day_of_month": 1,
+      "question": "What gives your days meaning?"
+    },
+    {
+      "month": 9,
+      "day_of_month": 2,
+      "question": "How do you define purpose in your life?"
+    },
+    {
+      "month": 9,
+      "day_of_month": 3,
+      "question": "What work feels most meaningful to you?"
+    },
+    {
+      "month": 9,
+      "day_of_month": 4,
+      "question": "How do you know you're on the right path?"
+    },
+    {
+      "month": 9,
+      "day_of_month": 5,
+      "question": "What contribution would you like to make?"
+    },
+    {
+      "month": 9,
+      "day_of_month": 6,
+      "question": "How do your values guide your choices?"
+    },
+    {
+      "month": 9,
+      "day_of_month": 7,
+      "question": "What pulls at your heart?"
+    },
+    {
+      "month": 9,
+      "day_of_month": 8,
+      "question": "How do you align your actions with your values?"
+    },
+    {
+      "month": 9,
+      "day_of_month": 9,
+      "question": "What legacy would you like to create?"
+    },
+    {
+      "month": 9,
+      "day_of_month": 10,
+      "question": "How do you use your strengths to help others?"
+    },
+    {
+      "month": 9,
+      "day_of_month": 11,
+      "question": "What mission excites you?"
+    },
+    {
+      "month": 9,
+      "day_of_month": 12,
+      "question": "How do you make decisions that honor your purpose?"
+    },
+    {
+      "month": 9,
+      "day_of_month": 13,
+      "question": "What impact do you want to have?"
+    },
+    {
+      "month": 9,
+      "day_of_month": 14,
+      "question": "How do you stay connected to what matters most?"
+    },
+    {
+      "month": 9,
+      "day_of_month": 15,
+      "question": "What calling keeps returning to you?"
+    },
+    {
+      "month": 9,
+      "day_of_month": 16,
+      "question": "How do you create meaningful change?"
+    },
+    {
+      "month": 9,
+      "day_of_month": 17,
+      "question": "What difference do you want to make?"
+    },
+    {
+      "month": 9,
+      "day_of_month": 18,
+      "question": "How do you live your values daily?"
+    },
+    {
+      "month": 9,
+      "day_of_month": 19,
+      "question": "What gives your life direction?"
+    },
+    {
+      "month": 9,
+      "day_of_month": 20,
+      "question": "How do you navigate uncertainty with purpose?"
+    },
+    {
+      "month": 9,
+      "day_of_month": 21,
+      "question": "What meaningful goals are you pursuing?"
+    },
+    {
+      "month": 9,
+      "day_of_month": 22,
+      "question": "How do you define success for yourself?"
+    },
+    {
+      "month": 9,
+      "day_of_month": 23,
+      "question": "What kind of leader do you want to be?"
+    },
+    {
+      "month": 9,
+      "day_of_month": 24,
+      "question": "How do you bring your whole self to what you do?"
+    },
+    {
+      "month": 9,
+      "day_of_month": 25,
+      "question": "What purpose feels authentic to you?"
+    },
+    {
+      "month": 9,
+      "day_of_month": 26,
+      "question": "How do you choose what matters?"
+    },
+    {
+      "month": 9,
+      "day_of_month": 27,
+      "question": "What responsibility do you embrace?"
+    },
+    {
+      "month": 9,
+      "day_of_month": 28,
+      "question": "How do you serve others?"
+    },
+    {
+      "month": 9,
+      "day_of_month": 29,
+      "question": "What dedication inspires you?"
+    },
+    {
+      "month": 9,
+      "day_of_month": 30,
+      "question": "How do you want to grow in your purpose?"
+    },
+    {
+      "month": 10,
+      "day_of_month": 1,
+      "question": "What are you ready to let go of?"
+    },
+    {
+      "month": 10,
+      "day_of_month": 2,
+      "question": "How has change shaped who you are?"
+    },
+    {
+      "month": 10,
+      "day_of_month": 3,
+      "question": "What transformation are you experiencing?"
+    },
+    {
+      "month": 10,
+      "day_of_month": 4,
+      "question": "How do you embrace endings?"
+    },
+    {
+      "month": 10,
+      "day_of_month": 5,
+      "question": "What's something you've outgrown?"
+    },
+    {
+      "month": 10,
+      "day_of_month": 6,
+      "question": "How do you find beauty in change?"
+    },
+    {
+      "month": 10,
+      "day_of_month": 7,
+      "question": "What cycle are you completing?"
+    },
+    {
+      "month": 10,
+      "day_of_month": 8,
+      "question": "How do you honor life's transitions?"
+    },
+    {
+      "month": 10,
+      "day_of_month": 9,
+      "question": "What wisdom have you gained from letting go?"
+    },
+    {
+      "month": 10,
+      "day_of_month": 10,
+      "question": "How do you navigate uncertainty?"
+    },
+    {
+      "month": 10,
+      "day_of_month": 11,
+      "question": "What part of yourself are you rediscovering?"
+    },
+    {
+      "month": 10,
+      "day_of_month": 12,
+      "question": "How do you find peace with the past?"
+    },
+    {
+      "month": 10,
+      "day_of_month": 13,
+      "question": "What changes are you welcoming?"
+    },
+    {
+      "month": 10,
+      "day_of_month": 14,
+      "question": "How do you process difficult emotions?"
+    },
+    {
+      "month": 10,
+      "day_of_month": 15,
+      "question": "What's shifting in your perspective?"
+    },
+    {
+      "month": 10,
+      "day_of_month": 16,
+      "question": "How do you accept what you cannot change?"
+    },
+    {
+      "month": 10,
+      "day_of_month": 17,
+      "question": "What season of life are you in?"
+    },
+    {
+      "month": 10,
+      "day_of_month": 18,
+      "question": "How do you make space for new beginnings?"
+    },
+    {
+      "month": 10,
+      "day_of_month": 19,
+      "question": "What's becoming clearer to you?"
+    },
+    {
+      "month": 10,
+      "day_of_month": 20,
+      "question": "How do you release expectations?"
+    },
+    {
+      "month": 10,
+      "day_of_month": 21,
+      "question": "What transformation are you resisting?"
+    },
+    {
+      "month": 10,
+      "day_of_month": 22,
+      "question": "How do you find strength in vulnerability?"
+    },
+    {
+      "month": 10,
+      "day_of_month": 23,
+      "question": "What's falling away naturally?"
+    },
+    {
+      "month": 10,
+      "day_of_month": 24,
+      "question": "How do you embrace the unknown?"
+    },
+    {
+      "month": 10,
+      "day_of_month": 25,
+      "question": "What truth are you facing?"
+    },
+    {
+      "month": 10,
+      "day_of_month": 26,
+      "question": "How do you grow through discomfort?"
+    },
+    {
+      "month": 10,
+      "day_of_month": 27,
+      "question": "What are you learning to accept?"
+    },
+    {
+      "month": 10,
+      "day_of_month": 28,
+      "question": "How do you honor endings?"
+    },
+    {
+      "month": 10,
+      "day_of_month": 29,
+      "question": "What change feels most significant?"
+    },
+    {
+      "month": 10,
+      "day_of_month": 30,
+      "question": "How do you stay grounded during transition?"
+    },
+    {
+      "month": 10,
+      "day_of_month": 31,
+      "question": "What masks are you ready to remove?"
+    },
+    {
+      "month": 11,
+      "day_of_month": 1,
+      "question": "What are you deeply grateful for right now?"
+    },
+    {
+      "month": 11,
+      "day_of_month": 2,
+      "question": "How has someone's kindness touched your life?"
+    },
+    {
+      "month": 11,
+      "day_of_month": 3,
+      "question": "What tradition means the most to you?"
+    },
+    {
+      "month": 11,
+      "day_of_month": 4,
+      "question": "How do you show appreciation to others?"
+    },
+    {
+      "month": 11,
+      "day_of_month": 5,
+      "question": "What connection has shaped your path?"
+    },
+    {
+      "month": 11,
+      "day_of_month": 6,
+      "question": "How do you cultivate gratitude in difficult times?"
+    },
+    {
+      "month": 11,
+      "day_of_month": 7,
+      "question": "What small joy are you thankful for?"
+    },
+    {
+      "month": 11,
+      "day_of_month": 8,
+      "question": "How has your community supported you?"
+    },
+    {
+      "month": 11,
+      "day_of_month": 9,
+      "question": "What family wisdom do you treasure?"
+    },
+    {
+      "month": 11,
+      "day_of_month": 10,
+      "question": "How do you create belonging for others?"
+    },
+    {
+      "month": 11,
+      "day_of_month": 11,
+      "question": "What act of service matters to you?"
+    },
+    {
+      "month": 11,
+      "day_of_month": 12,
+      "question": "How has gratitude changed your perspective?"
+    },
+    {
+      "month": 11,
+      "day_of_month": 13,
+      "question": "What abundance do you see in your life?"
+    },
+    {
+      "month": 11,
+      "day_of_month": 14,
+      "question": "How do you strengthen your relationships?"
+    },
+    {
+      "month": 11,
+      "day_of_month": 15,
+      "question": "What heritage are you grateful to carry?"
+    },
+    {
+      "month": 11,
+      "day_of_month": 16,
+      "question": "How do you express thankfulness?"
+    },
+    {
+      "month": 11,
+      "day_of_month": 17,
+      "question": "What connection surprised you with its impact?"
+    },
+    {
+      "month": 11,
+      "day_of_month": 18,
+      "question": "How do you build meaningful community?"
+    },
+    {
+      "month": 11,
+      "day_of_month": 19,
+      "question": "What simple blessing made you smile today?"
+    },
+    {
+      "month": 11,
+      "day_of_month": 20,
+      "question": "How do you receive others' gratitude?"
+    },
+    {
+      "month": 11,
+      "day_of_month": 21,
+      "question": "What family bond are you most thankful for?"
+    },
+    {
+      "month": 11,
+      "day_of_month": 22,
+      "question": "How do you share your abundance?"
+    },
+    {
+      "month": 11,
+      "day_of_month": 23,
+      "question": "What friendship has enriched your life?"
+    },
+    {
+      "month": 11,
+      "day_of_month": 24,
+      "question": "How do you practice appreciation daily?"
+    },
+    {
+      "month": 11,
+      "day_of_month": 25,
+      "question": "What gathering brings you joy?"
+    },
+    {
+      "month": 11,
+      "day_of_month": 26,
+      "question": "How has giving shaped your life?"
+    },
+    {
+      "month": 11,
+      "day_of_month": 27,
+      "question": "What support are you grateful for?"
+    },
+    {
+      "month": 11,
+      "day_of_month": 28,
+      "question": "How do you honor your connections?"
+    },
+    {
+      "month": 11,
+      "day_of_month": 29,
+      "question": "What difference has kindness made in your life?"
+    },
+    {
+      "month": 11,
+      "day_of_month": 30,
+      "question": "How do you celebrate your community?"
+    },
+    {
+      "month": 12,
+      "day_of_month": 1,
+      "question": "What hope are you carrying into the future?"
+    },
+    {
+      "month": 12,
+      "day_of_month": 2,
+      "question": "How has this year changed you?"
+    },
+    {
+      "month": 12,
+      "day_of_month": 3,
+      "question": "What gift have you given yourself this year?"
+    },
+    {
+      "month": 12,
+      "day_of_month": 4,
+      "question": "How do you want to be remembered?"
+    },
+    {
+      "month": 12,
+      "day_of_month": 5,
+      "question": "What tradition have you made your own?"
+    },
+    {
+      "month": 12,
+      "day_of_month": 6,
+      "question": "How has your definition of success evolved this year?"
+    },
+    {
+      "month": 12,
+      "day_of_month": 7,
+      "question": "What legacy are you building?"
+    },
+    {
+      "month": 12,
+      "day_of_month": 8,
+      "question": "How do you celebrate progress?"
+    },
+    {
+      "month": 12,
+      "day_of_month": 9,
+      "question": "What impact do you hope to have?"
+    },
+    {
+      "month": 12,
+      "day_of_month": 10,
+      "question": "How has struggle shaped your story?"
+    },
+    {
+      "month": 12,
+      "day_of_month": 11,
+      "question": "What light do you share with others?"
+    },
+    {
+      "month": 12,
+      "day_of_month": 12,
+      "question": "How has your purpose become clearer?"
+    },
+    {
+      "month": 12,
+      "day_of_month": 13,
+      "question": "What dream are you nurturing?"
+    },
+    {
+      "month": 12,
+      "day_of_month": 14,
+      "question": "How do you honor your journey?"
+    },
+    {
+      "month": 12,
+      "day_of_month": 15,
+      "question": "What wisdom has this year taught you?"
+    },
+    {
+      "month": 12,
+      "day_of_month": 16,
+      "question": "How do you keep hope alive in dark times?"
+    },
+    {
+      "month": 12,
+      "day_of_month": 17,
+      "question": "What makes your celebrations meaningful?"
+    },
+    {
+      "month": 12,
+      "day_of_month": 18,
+      "question": "How have you surprised yourself this year?"
+    },
+    {
+      "month": 12,
+      "day_of_month": 19,
+      "question": "What gift would you give the world?"
+    },
+    {
+      "month": 12,
+      "day_of_month": 20,
+      "question": "How do you create magic for others?"
+    },
+    {
+      "month": 12,
+      "day_of_month": 21,
+      "question": "What matters most to you now?"
+    },
+    {
+      "month": 12,
+      "day_of_month": 22,
+      "question": "How do you carry forward what's precious?"
+    },
+    {
+      "month": 12,
+      "day_of_month": 23,
+      "question": "What light do you follow?"
+    },
+    {
+      "month": 12,
+      "day_of_month": 24,
+      "question": "How do you honor endings and beginnings?"
+    },
+    {
+      "month": 12,
+      "day_of_month": 25,
+      "question": "What wonder do you wish to share?"
+    },
+    {
+      "month": 12,
+      "day_of_month": 26,
+      "question": "How has love shaped your year?"
+    },
+    {
+      "month": 12,
+      "day_of_month": 27,
+      "question": "What possibility excites you most?"
+    },
+    {
+      "month": 12,
+      "day_of_month": 28,
+      "question": "How do you want to grow next year?"
+    },
+    {
+      "month": 12,
+      "day_of_month": 29,
+      "question": "What blessing do you want to give?"
+    },
+    {
+      "month": 12,
+      "day_of_month": 30,
+      "question": "How has your heart expanded this year?"
+    },
+    {
+      "month": 12,
+      "day_of_month": 31,
+      "question": "What story are you ready to write?"
+    }
+  ]
